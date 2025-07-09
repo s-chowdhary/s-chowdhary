@@ -1,89 +1,126 @@
-# Hi, I'm Sarthak Chowdhary 👋
+<!-- Banner -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=1A73E8&center=true&vCenter=true&width=800&lines=Hi%2C+I'm+Sarthak+Chowdhary+%F0%9F%91%8B;Full+Stack+Developer+%7C+Cloud+%7C+AI+Enthusiast"/>
+</p>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=flat-square)](https://www.linkedin.com/in/sarthak-chowdhary/)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&style=flat-square)](https://github.com/s-chowdhary)
+<p align="center">
+  <a href="https://www.linkedin.com/in/sarthak-chowdhary/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge"/></a>
+  <a href="https://github.com/s-chowdhary"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&style=for-the-badge"/></a>
+  <a href="mailto:s.chowdhary97@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge"/></a>
+</p>
 
 ---
 
 ## 👨‍💻 About Me
 
-- **Full Stack Developer** | Cloud, Data, and AI Enthusiast
-- Passionate about building scalable, reliable, and impactful software solutions
-- Experienced in cloud-native microservices, data engineering, and full-stack development
+- 🚀 **Full Stack Developer** | Cloud, Data, and AI Enthusiast
+- 💡 Passionate about building scalable, reliable, and impactful software solutions
+- 🌐 Experienced in cloud-native microservices, data engineering, and full-stack development
 
 ---
 
 ## 💼 Experience
 
-- **Full Stack Developer** @ Saayam For All _(Sept 2024 – Present)_  
-  Building and deploying cloud-native microservices and automated data reporting solutions using Java Spring Boot, Python, AWS, and modern data engineering tools.
+<details>
+<summary><b>Full Stack Developer @ Saayam For All (Sept 2024 – Present)</b></summary>
+<ul>
+  <li>Building and deploying cloud-native microservices and automated data reporting solutions using Java Spring Boot, Python, AWS, and modern data engineering tools.</li>
+</ul>
+</details>
 
-- **Software Engineer** @ Optum, United Health Group _(July 2020 – Aug 2022)_  
-  Developed enterprise-scale SaaS dashboards, data pipelines, and ETL frameworks for healthcare operations, leveraging full-stack and cloud technologies to improve reliability and efficiency.
+<details>
+<summary><b>Software Engineer @ Optum, United Health Group (July 2020 – Aug 2022)</b></summary>
+<ul>
+  <li>Developed enterprise-scale SaaS dashboards, data pipelines, and ETL frameworks for healthcare operations, leveraging full-stack and cloud technologies to improve reliability and efficiency.</li>
+</ul>
+</details>
 
-- **Web Developer** @ [beepweep.com](https://beepweep.com) _(May 2019 – June 2020)_  
-  Created a secure loan lending web application with React and Spring Boot, implementing robust authentication and RESTful APIs.
+<details>
+<summary><b>Web Developer @ <a href="https://beepweep.com">beepweep.com</a> (May 2019 – June 2020)</b></summary>
+<ul>
+  <li>Created a secure loan lending web application with React and Spring Boot, implementing robust authentication and RESTful APIs.</li>
+</ul>
+</details>
 
 ---
 
 ## 🛠️ Technical Skills
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=java,python,go,cpp,js,ts,html,css,r,react,spring,angular,flask,fastapi,kafka,git,docker,kubernetes,mongodb,gcp,aws,azure,pytorch,tensorflow,opencv,pandas,numpy,matplotlib"/>
+</p>
+
+<details>
+<summary>See full list</summary>
 
 - **Languages:** Java, Python, Go, C/C++, SQL, JavaScript, TypeScript, HTML/CSS, R
 - **Frameworks:** Angular, React, Spring Boot, Kafka, REST API, Flask, FastAPI
 - **Developer Tools:** Apache Airflow, Git, Docker, Kubernetes, MongoDB, GCP, Azure, AWS
 - **Libraries:** pandas, PyTorch, TensorFlow, OpenCV, NumPy, Matplotlib, JSON
 
+</details>
+
 ---
 
 ## 🎓 Education
 
-- **New York University, Tandon School of Engineering**  
+- 🎓 **New York University, Tandon School of Engineering**  
   _Master's in Computer Engineering (GPA: 3.87)_
-- **Vellore Institute of Technology**  
+- 🎓 **Vellore Institute of Technology**  
   _Bachelor of Technology in Information Technology_
 
 ---
 
 ## 📚 Publication
 
-- **Image Compression and Reconstruction Using Encoder-Decoder Convolutional Neural Network**  
-  [View Publication](https://link.springer.com/chapter/10.1007/978-981-15-5400-1_80)
+- <b>Image Compression and Reconstruction Using Encoder-Decoder Convolutional Neural Network</b>  
+  <a href="https://link.springer.com/chapter/10.1007/978-981-15-5400-1_80">View Publication</a>
 
 ---
 
 ## 🚀 Projects
 
-- **[Subwave](https://github.com/s-chowdhary/Subwave)**  
-  _React Native, TypeScript, Google Cloud Speech-to-Text_  
+- <b>[Subwave](https://github.com/s-chowdhary/Subwave)</b>  
+  <i>React Native, TypeScript, Google Cloud Speech-to-Text</i>  
   Subwave is a mobile app that transcribes subway announcements in noisy environments and delivers the transcribed text directly to your listening device. Designed to help users, especially those with hearing difficulties or in loud settings, never miss important subway information.
 
-- **Fruit Freshness Detection**  
-  _Python, PyTorch, OpenCV_  
+- <b>Fruit Freshness Detection</b>  
+  <i>Python, PyTorch, OpenCV</i>  
   Engineered an automated grading system using RESNET and computer vision for fruit freshness.
 
-- **Success Prediction of Any New Application**  
-  _Python, sklearn, matplotlib_  
-  [GitHub Repo](https://github.com/s-chowdhary/App-success-prediction)  
+- <b>Success Prediction of Any New Application</b>  
+  <i>Python, sklearn, matplotlib</i>  
+  <a href="https://github.com/s-chowdhary/App-success-prediction">GitHub Repo</a>  
   Performed data analysis, deployed XGBoost and LightGBM models to predict application success.
 
 ---
 
 ## 🏅 Certifications
 
-- **Microsoft Certified: Azure Fundamentals (AZ-900)**  
-  [View Certification](https://learn.microsoft.com/api/credentials/share/en-us/SarthakChowdhary-2376/176C5C485637ED5F?sharingId=FFD496BC277A9E38)
+- <b>Microsoft Certified: Azure Fundamentals (AZ-900)</b>  
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/SarthakChowdhary-2376/176C5C485637ED5F?sharingId=FFD496BC277A9E38">View Certification</a>
 
 ---
 
 ## 🏆 Awards
 
-- **Special Achievers Award** – VIT, Vellore  
+- 🏅 <b>Special Achievers Award</b> – VIT, Vellore  
   Received for participating in the European Rover Challenge in Poland.
-- **Special Mention, Blockchain Category** – Devmerge'18 @ IIT Madras Research Park  
+- 🥈 <b>Special Mention, Blockchain Category</b> – Devmerge'18 @ IIT Madras Research Park  
   2nd place in blockchain track at national hackathon.
-- **Winner** – Devfest'18, DSC VIT  
+- 🥇 <b>Winner</b> – Devfest'18, DSC VIT  
   1st place for blockchain-based web app for disaster management.
 
 ---
 
-📫 **Contact:** s.chowdhary97@gmail.com | 929-592-0112 
+## 🤝 Let's Connect!
+
+<p align="center">
+  <a href="mailto:s.chowdhary97@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://www.linkedin.com/in/sarthak-chowdhary/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge"/></a>
+  <a href="https://github.com/s-chowdhary"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&style=for-the-badge"/></a>
+</p>
+
+<p align="center">
+  <b>Thanks for visiting! 🚀</b>
+</p> 
