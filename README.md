@@ -21,26 +21,14 @@
 
 ## 💼 Experience
 
-<details>
-<summary><b>Full Stack Developer @ Saayam For All (Sept 2024 – Present)</b></summary>
-<ul>
-  <li>Building and deploying cloud-native microservices and automated data reporting solutions using Java Spring Boot, Python, AWS, and modern data engineering tools.</li>
-</ul>
-</details>
+- **Full Stack Developer @ Saayam For All (Sept 2024 – Present)**  
+  Building and deploying cloud-native microservices and automated data reporting solutions using Java Spring Boot, Python, AWS, and modern data engineering tools.
 
-<details>
-<summary><b>Software Engineer @ Optum, United Health Group (July 2020 – Aug 2022)</b></summary>
-<ul>
-  <li>Developed enterprise-scale SaaS dashboards, data pipelines, and ETL frameworks for healthcare operations, leveraging full-stack and cloud technologies to improve reliability and efficiency.</li>
-</ul>
-</details>
+- **Software Engineer @ Optum, United Health Group (July 2020 – Aug 2022)**  
+  Developed enterprise-scale SaaS dashboards, data pipelines, and ETL frameworks for healthcare operations, leveraging full-stack and cloud technologies to improve reliability and efficiency.
 
-<details>
-<summary><b>Web Developer @ <a href="https://beepweep.com">beepweep.com</a> (May 2019 – June 2020)</b></summary>
-<ul>
-  <li>Created a secure loan lending web application with React and Spring Boot, implementing robust authentication and RESTful APIs.</li>
-</ul>
-</details>
+- **Web Developer @ [beepweep.com](https://beepweep.com) (May 2019 – June 2020)**  
+  Created a secure loan lending web application with React and Spring Boot, implementing robust authentication and RESTful APIs.
 
 ---
 
@@ -71,7 +59,7 @@
 ## 🎓 Education
 
 - 🎓 **New York University, Tandon School of Engineering**  
-  _Master's in Computer Engineering (GPA: 3.87)_
+  _Master's in Computer Engineering_
 - 🎓 **Vellore Institute of Technology**  
   _Bachelor of Technology in Information Technology_
 
