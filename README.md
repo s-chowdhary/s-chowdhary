@@ -47,18 +47,13 @@
 ## 🛠️ Technical Skills
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=java,python,go,cpp,js,ts,html,css,r,react,spring,angular,flask,fastapi,kafka,git,docker,kubernetes,mongodb,gcp,aws,azure,pytorch,tensorflow,opencv,pandas,numpy,matplotlib"/>
+  <img src="https://skillicons.dev/icons?i=java,python,js,react,spring,aws,docker,kubernetes,sql,git,pytorch,tensorflow"/>
 </p>
 
-<details>
-<summary>See full list</summary>
-
-- **Languages:** Java, Python, Go, C/C++, SQL, JavaScript, TypeScript, HTML/CSS, R
-- **Frameworks:** Angular, React, Spring Boot, Kafka, REST API, Flask, FastAPI
-- **Developer Tools:** Apache Airflow, Git, Docker, Kubernetes, MongoDB, GCP, Azure, AWS
-- **Libraries:** pandas, PyTorch, TensorFlow, OpenCV, NumPy, Matplotlib, JSON
-
-</details>
+- **Languages:** Java, Python, JavaScript, SQL
+- **Frameworks/Libraries:** React, Spring Boot, PyTorch, TensorFlow
+- **Cloud/DevOps:** AWS, Docker, Kubernetes
+- **Tools:** Git
 
 ---
 
