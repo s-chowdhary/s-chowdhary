@@ -15,19 +15,14 @@
 
 ## 💼 Experience
 
-- **Full Stack Developer** @ Saayam For All _(Sept 2024 – Present)_
-  - Engineered and deployed cloud-native microservices for data collection, request handling, and generative AI using **Java Spring Boot** and **Python on AWS Lambda**; integrated **Amazon Cognito** for authentication and cost reduction.
-  - Designed scalable, automated data reporting infrastructure with **Python, FastAPI, Apache Airflow, PostgreSQL, and AWS S3**.
+- **Full Stack Developer** @ Saayam For All _(Sept 2024 – Present)_  
+  Building and deploying cloud-native microservices and automated data reporting solutions using Java Spring Boot, Python, AWS, and modern data engineering tools.
 
-- **Software Engineer** @ Optum, United Health Group _(July 2020 – Aug 2022)_
-  - Built a cloud-hosted SaaS observability dashboard for 700+ enterprise apps using **Angular, Spring Boot, MongoDB, GCP, Kubernetes, Docker**.
-  - Developed data pipelines with **Kafka** and reduced data redundancy by 10% across data warehouses.
-  - Created ETL job parser and Python frameworks for data extraction and visualization (**Metabase**).
-  - Managed 500+ ETL jobs and improved pipeline reliability and latency with **Airflow DAGs**.
+- **Software Engineer** @ Optum, United Health Group _(July 2020 – Aug 2022)_  
+  Developed enterprise-scale SaaS dashboards, data pipelines, and ETL frameworks for healthcare operations, leveraging full-stack and cloud technologies to improve reliability and efficiency.
 
-- **Web Developer** @ [beepweep.com](https://beepweep.com) _(May 2019 – June 2020)_
-  - Built a loan lending web app with **React, Spring Boot, REST APIs**.
-  - Implemented secure authentication and authorization using **Okta**.
+- **Web Developer** @ [beepweep.com](https://beepweep.com) _(May 2019 – June 2020)_  
+  Created a secure loan lending web application with React and Spring Boot, implementing robust authentication and RESTful APIs.
 
 ---
 
@@ -57,6 +52,10 @@
 ---
 
 ## 🚀 Projects
+
+- **[Subwave](https://github.com/s-chowdhary/Subwave)**  
+  _React Native, TypeScript, Google Cloud Speech-to-Text_  
+  Subwave is a mobile app that transcribes subway announcements in noisy environments and delivers the transcribed text directly to your listening device. Designed to help users, especially those with hearing difficulties or in loud settings, never miss important subway information.
 
 - **Fruit Freshness Detection**  
   _Python, PyTorch, OpenCV_  
