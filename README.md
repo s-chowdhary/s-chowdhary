@@ -105,6 +105,8 @@
   2nd place in blockchain track at national hackathon.
 - 🥇 <b>Winner</b> – Devfest'18, DSC VIT  
   1st place for blockchain-based web app for disaster management.
+- 🥇 <b>Winner of Hackbattle'19</b> – IEEE-CS, VIT  
+  Won first place in Hackbattle'19 for Armaments tracking system using blockchain.
 
 ---
 
