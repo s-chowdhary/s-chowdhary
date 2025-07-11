@@ -4,10 +4,10 @@
 </p>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/sarthak-chowdhary/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge"/></a>
-  <a href="https://github.com/s-chowdhary"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&style=for-the-badge"/></a>
+  <a href="https://www.linkedin.com/in/sarthak-chowdhary/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge"/></a>
+  <a href="https://github.com/s-chowdhary" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&style=for-the-badge"/></a>
   <a href="mailto:s.chowdhary97@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge"/></a>
-  <a href="https://sarthakchowdhary.tech"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+  <a href="https://sarthakchowdhary.tech" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
 </p>
 
 ---
@@ -28,7 +28,7 @@
 - **Software Engineer @ Optum, United Health Group (July 2020 – Aug 2022)**  
   Developed enterprise-scale SaaS dashboards, data pipelines, and ETL frameworks for healthcare operations, leveraging full-stack and cloud technologies to improve reliability and efficiency.
 
-- **Web Developer @ [beepweep.com](https://beepweep.com) (May 2019 – June 2020)**  
+- **Web Developer @ <a href="https://beepweep.com" target="_blank" rel="noopener noreferrer">beepweep.com</a> (May 2019 – June 2020)**  
   Created a secure loan lending web application with React and Spring Boot, implementing robust authentication and RESTful APIs.
 
 ---
@@ -69,13 +69,13 @@
 ## 📚 Publication
 
 - <b>Image Compression and Reconstruction Using Encoder-Decoder Convolutional Neural Network</b>  
-  <a href="https://link.springer.com/chapter/10.1007/978-981-15-5400-1_80">View Publication</a>
+  <a href="https://link.springer.com/chapter/10.1007/978-981-15-5400-1_80" target="_blank" rel="noopener noreferrer">View Publication</a>
 
 ---
 
 ## 🚀 Projects
 
-- <b>[Subwave](https://github.com/s-chowdhary/Subwave)</b>  
+- <b><a href="https://github.com/s-chowdhary/Subwave" target="_blank" rel="noopener noreferrer">Subwave</a></b>  
   <i>React Native, TypeScript, Google Cloud Speech-to-Text</i>  
   Subwave is a mobile app that transcribes subway announcements in noisy environments and delivers the transcribed text directly to your listening device. Designed to help users, especially those with hearing difficulties or in loud settings, never miss important subway information.
 
@@ -85,7 +85,7 @@
 
 - <b>Success Prediction of Any New Application</b>  
   <i>Python, sklearn, matplotlib</i>  
-  <a href="https://github.com/s-chowdhary/App-success-prediction">GitHub Repo</a>  
+  <a href="https://github.com/s-chowdhary/App-success-prediction" target="_blank" rel="noopener noreferrer">GitHub Repo</a>  
   Performed data analysis, deployed XGBoost and LightGBM models to predict application success.
 
 ---
@@ -93,7 +93,7 @@
 ## 🏅 Certifications
 
 - <b>Microsoft Certified: Azure Fundamentals (AZ-900)</b>  
-  <a href="https://learn.microsoft.com/api/credentials/share/en-us/SarthakChowdhary-2376/176C5C485637ED5F?sharingId=FFD496BC277A9E38">View Certification</a>
+  <a href="https://learn.microsoft.com/api/credentials/share/en-us/SarthakChowdhary-2376/176C5C485637ED5F?sharingId=FFD496BC277A9E38" target="_blank" rel="noopener noreferrer">View Certification</a>
 
 ---
 
@@ -112,9 +112,9 @@
 
 <p align="center">
   <a href="mailto:s.chowdhary97@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge"/></a>
-  <a href="https://www.linkedin.com/in/sarthak-chowdhary/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge"/></a>
-  <a href="https://github.com/s-chowdhary"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&style=for-the-badge"/></a>
-  <a href="https://sarthakchowdhary.tech"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/sarthak-chowdhary/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge"/></a>
+  <a href="https://github.com/s-chowdhary" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&style=for-the-badge"/></a>
+  <a href="https://sarthakchowdhary.tech" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
 </p>
 
 <p align="center">
