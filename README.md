@@ -7,6 +7,7 @@
   <a href="https://www.linkedin.com/in/sarthak-chowdhary/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge"/></a>
   <a href="https://github.com/s-chowdhary"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&style=for-the-badge"/></a>
   <a href="mailto:s.chowdhary97@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge"/></a>
+  <a href="https://sarthakchowdhary.tech"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
 </p>
 
 ---
@@ -113,6 +114,7 @@
   <a href="mailto:s.chowdhary97@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white&style=for-the-badge"/></a>
   <a href="https://www.linkedin.com/in/sarthak-chowdhary/"><img src="https://img.shields.io/badge/LinkedIn-blue?logo=linkedin&style=for-the-badge"/></a>
   <a href="https://github.com/s-chowdhary"><img src="https://img.shields.io/badge/GitHub-181717?logo=github&style=for-the-badge"/></a>
+  <a href="https://sarthakchowdhary.tech"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white"/></a>
 </p>
 
 <p align="center">
